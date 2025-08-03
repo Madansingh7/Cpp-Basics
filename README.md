@@ -8,7 +8,6 @@ It follows the structure of the **Apna College DSA course**, covering basics top
 - 🔢 Basic syntax and input/output & basic codes
 - 📚 Functions and recursion
 - 🎯 Arrays, strings, and pointers
-- 🧩 Sorting and searching algorithms
 - 📁 Well-organized, beginner-friendly code
 
 ## 📅 Progress
